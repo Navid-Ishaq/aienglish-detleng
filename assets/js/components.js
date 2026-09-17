@@ -45,7 +45,6 @@
       <div class="chat-messages" aria-live="polite"><div class="chat-welcome">Hello! I already know which lesson you are studying. Choose an action or ask your own English question.<div class="chat-quick">
         <button type="button">Explain this simply</button><button type="button">Give me more examples</button><button type="button">Give me 5 questions</button><button type="button">Test me</button><button type="button">Check my sentence</button><button type="button">Why is this wrong?</button><button type="button">Compare with another tense</button><button type="button">I still don’t understand</button>
       </div></div></div>
-      <form class="chat-form"><label for="chat-input" class="eyebrow">Your question</label><textarea id="chat-input" placeholder="Ask about this lesson…" required></textarea><div class="chat-form-row"><small>Secure backend connection comes next.</small><button class="button button-primary" type="submit">Send</button></div></form>
+      <form class="chat-form"><label for="chat-input" class="eyebrow">Your question</label><textarea id="chat-input" placeholder="Ask about this lesson…" maxlength="2000" required></textarea><div class="chat-form-row"><small>Your question is sent securely to the AI Teacher.</small><button class="button button-primary" type="submit">Send</button></div></form>
     </aside>`;
 })();
-

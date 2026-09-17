@@ -1,0 +1,799 @@
+AI TEACH ENGLISH — 12 TENSES MASTER KNOWLEDGE BASE Version: 1.0 Purpose:
+Grounding knowledge for the AI English Teacher Scope: The traditional
+12-form teaching framework used in English-learning courses
+
+======================================================================
+0. AI TEACHER OPERATING INSTRUCTIONS
+======================================================================
+
+ROLE You are a patient, accurate, practical English grammar teacher.
+Your job is to help learners understand and use English tense forms
+correctly, not merely memorize formulas.
+
+TEACHING RULES 1. Answer the learner’s actual question first. 2. Use
+this knowledge base as the primary grammar reference. 3. Explain in
+simple English by default. If the learner asks for another language or a
+simpler explanation, adapt accordingly. 4. Always distinguish FORM from
+USE: - FORM = how the verb phrase is constructed. - USE = why a speaker
+chooses that form in context. 5. Give natural, modern examples. 6. When
+correcting a sentence: a) show the learner’s sentence, b) give the
+corrected sentence, c) explain the reason briefly, d) give one or two
+comparable examples. 7. If more than one tense is grammatically
+possible, do not pretend there is only one answer. Explain how the
+meaning changes. 8. Do not invent a grammar rule merely to justify an
+answer. 9. Do not treat signal words as automatic tense selectors. Words
+such as “since”, “already”, “while”, “by”, and “tomorrow” are clues;
+context determines the form. 10. Remember that stative verbs are not
+normally used in continuous forms when they describe states (e.g. know,
+believe, own, need, understand), though some verbs can be dynamic with a
+different meaning. 11. When the learner asks for practice, generate
+fresh examples rather than repeating the examples in this file. 12. When
+generating a quiz, keep each question unambiguous and check the answer
+before presenting it. 13. Never shame a learner for mistakes. 14. Prefer
+useful explanation over terminology. Introduce technical terms only when
+they help. 15. If the learner’s intended meaning is unclear, explain the
+likely interpretations.
+
+IMPORTANT TERMINOLOGY NOTE Many teaching courses organize English into
+“12 tenses”: four present forms, four past forms, and four future forms.
+This is a useful learning framework and is used throughout this
+knowledge base. In stricter linguistic descriptions, English is often
+analysed as having present and past tense forms, while future time is
+expressed through constructions such as “will” plus aspect. If a learner
+asks about this distinction, explain it calmly; do not tell them that
+the 12-form learning framework is useless or “wrong”.
+
+VERB FORM KEY V1 = base form: work, go, write V2 = past form: worked,
+went, wrote V3 = past participle: worked, gone, written V-ing = -ing
+form/present participle: working, going, writing
+
+CORE ASPECT IDEA SIMPLE: presents a fact, state, habit, event, or
+complete situation without highlighting its internal duration.
+CONTINUOUS: views an activity as in progress, temporary, developing, or
+unfolding. PERFECT: connects one time to an earlier event/state; often
+gives a “looking back” view. PERFECT CONTINUOUS: combines an earlier
+starting point with emphasis on duration/activity.
+
+====================================================================== 1.
+PRESENT SIMPLE
+======================================================================
+
+CORE MEANING Use the Present Simple mainly for facts, states, habits,
+routines, repeated events, general truths, and certain scheduled future
+events.
+
+FORM Affirmative: I/You/We/They + V1 He/She/It + V1-s/es
+
+Negative: I/You/We/They + do not (don’t) + V1 He/She/It + does not
+(doesn’t) + V1
+
+Question: Do + I/you/we/they + V1 …? Does + he/she/it + V1 …?
+
+BE: I am; You/We/They are; He/She/It is Negative: am not / are not / is
+not Question: Am/Are/Is + subject …?
+
+MAIN USES 1. Habits and routines: I walk to work every morning. She
+studies after dinner. 2. General truths and facts: Water boils at 100°C
+at standard atmospheric pressure. The Earth moves around the Sun. 3.
+States: I know the answer. He owns a small apartment. 4. Repeated
+events: The shop closes at six every day. 5. Instructions,
+demonstrations, commentary and summaries: First, you open the file and
+select the image. 6. Timetabled/scheduled future events: The train
+leaves at 7:30 tomorrow. The course starts next Monday. 7. Future time
+clauses after words such as when, after, before, until, as soon as: I’ll
+call you when I arrive. We won’t leave until the rain stops.
+
+COMMON TIME EXPRESSIONS always, usually, often, sometimes, rarely,
+never, every day, on Mondays, once a week, generally, normally.
+
+THIRD-PERSON SPELLING work -> works watch -> watches go -> goes study ->
+studies have -> has
+
+COMMON MISTAKES Wrong: She work every day. Correct: She works every day.
+
+Wrong: He doesn’t works here. Correct: He doesn’t work here. Reason:
+“doesn’t” already carries the third-person marking; use V1 after it.
+
+Wrong: Does she likes coffee? Correct: Does she like coffee?
+
+Wrong: I am knowing him. Correct: I know him. Reason: “know” is normally
+stative in this meaning.
+
+CONTRAST Present Simple: I work from home. = normal/routine situation.
+Present Continuous: I am working from home this week. =
+temporary/current situation.
+
+TEACHER CHECK Ask: Is this a habit/fact/state/repeated event, or is the
+speaker emphasizing an activity in progress? This often separates
+Present Simple from Present Continuous.
+
+======================================================================
+2. PRESENT CONTINUOUS
+======================================================================
+
+CORE MEANING Use the Present Continuous to view an activity or situation
+as happening around now, temporary, developing, changing, or arranged
+for the future.
+
+FORM Affirmative: Subject + am/is/are + V-ing I am working. She is
+working. They are working.
+
+Negative: Subject + am/is/are + not + V-ing
+
+Question: Am/Is/Are + subject + V-ing …?
+
+MAIN USES 1. Happening at the moment of speaking: Please be quiet. I’m
+studying. 2. Happening around the present period: I’m reading a very
+interesting book this week. 3. Temporary situations: She is staying with
+her sister for a month. 4. Changing/developing situations: Your English
+is improving. Prices are rising. 5. Repeated behaviour with words such
+as “always”, often showing emotion: He’s always losing his keys. 6.
+Personal future arrangements: I’m meeting Sara tomorrow at ten. We’re
+flying to Rome on Friday.
+
+SPELLING NOTES make -> making write -> writing run -> running sit ->
+sitting lie -> lying
+
+STATIVE VERBS Continuous forms are normally avoided when a verb
+describes a state: know, understand, believe, want, need, own, belong,
+remember, prefer, love, hate, seem.
+
+Correct: I understand the problem. Usually not: I am understanding the
+problem.
+
+MEANING CAN CHANGE I think you’re right. = believe/opinion; state I’m
+thinking about the problem. = mental activity/process
+
+I have a car. = possession I’m having lunch. = activity
+
+COMMON MISTAKES Wrong: She working now. Correct: She is working now.
+
+Wrong: They are play football. Correct: They are playing football.
+
+Wrong: I am wanting a new phone. Correct: I want a new phone.
+
+CONTRAST Present Simple: She teaches English. = regular
+occupation/activity. Present Continuous: She is teaching English this
+semester. = current/temporary situation.
+
+======================================================================
+3. PRESENT PERFECT SIMPLE
+======================================================================
+
+CORE MEANING The Present Perfect connects an earlier event or state with
+the present. The exact past time is often unspecified or the time period
+is still open.
+
+FORM Affirmative: Subject + have/has + V3 I have finished. She has
+finished.
+
+Negative: Subject + have/has + not + V3
+
+Question: Have/Has + subject + V3 …?
+
+MAIN USES 1. Past action with a present result: I’ve lost my keys. = I
+do not have them now. 2. Life experience up to now: Have you ever
+visited Canada? I’ve never tried skiing. 3. Events in an unfinished time
+period: I’ve had two meetings today. = “today” is viewed as unfinished.
+4. States that began in the past and continue now: I’ve known her for
+ten years. He has lived here since 2020. 5. Recent events: She’s just
+arrived. 6. Achievements/changes up to the present: Scientists have
+discovered many new species.
+
+COMMON WORDS ever, never, already, yet, just, recently, lately, so far,
+until now, since, for, this week, today.
+
+SINCE AND FOR since + starting point: since Monday, since 2020, since I
+moved here
+
+for + duration: for two hours, for three years, for a long time
+
+FINISHED PAST TIME Do not normally use Present Perfect with a clearly
+finished past-time expression such as yesterday, last year, in 2018, two
+days ago.
+
+Wrong in standard teaching contexts: I have seen him yesterday. Correct:
+I saw him yesterday.
+
+But: I have seen him today. This is possible when “today” is still an
+unfinished period in the speaker’s perspective.
+
+BEEN VS GONE She has gone to Paris. = she went and is still there/on the
+trip. She has been to Paris. = she visited Paris and returned; often
+experience.
+
+COMMON MISTAKES Wrong: I have went there. Correct: I have gone there.
+
+Wrong: She has finished it yesterday. Correct: She finished it
+yesterday.
+
+Wrong: I am here since Monday. Correct: I have been here since Monday.
+
+CONTRAST WITH PAST SIMPLE Present Perfect: I’ve visited Berlin three
+times. = experience up to now. Past Simple: I visited Berlin in 2022. =
+finished past time.
+
+DIALECT NOTE American English sometimes uses Past Simple in contexts
+where British English more often uses Present Perfect, especially with
+“already” and “yet”. Do not mark a natural American-English form wrong
+merely because a British-English form is also possible.
+
+======================================================================
+4. PRESENT PERFECT CONTINUOUS
+======================================================================
+
+CORE MEANING Use the Present Perfect Continuous for an activity that
+started earlier and continues now, or has recently stopped but has a
+visible/relevant present result. It often emphasizes duration or
+activity rather than completed result.
+
+FORM Affirmative: Subject + have/has + been + V-ing I have been working.
+She has been working.
+
+Negative: Subject + have/has + not + been + V-ing
+
+Question: Have/Has + subject + been + V-ing …?
+
+MAIN USES 1. Activity continuing from the past until now: I’ve been
+studying for three hours. 2. Repeated activity over a period continuing
+to now: She’s been going to the gym regularly. 3. Recent activity with
+present evidence/result: The ground is wet. It has been raining. 4.
+Temporary ongoing situation: I’ve been working from home while the
+office is being renovated.
+
+SIMPLE VS CONTINUOUS Present Perfect Simple often emphasizes
+result/completion/quantity: I’ve written five emails.
+
+Present Perfect Continuous often emphasizes process/duration: I’ve been
+writing emails all morning.
+
+Compare: She’s read the book. = focus on completion/result. She’s been
+reading the book. = focus on the activity; it may be unfinished.
+
+STATIVE VERBS Normally use Present Perfect Simple, not continuous, with
+stative meanings: I’ve known him for years. Not normally: I’ve been
+knowing him for years.
+
+COMMON MISTAKES Wrong: I have been work all day. Correct: I have been
+working all day.
+
+Wrong: She has being studying. Correct: She has been studying.
+
+Wrong: I’ve been knowing her since school. Correct: I’ve known her since
+school.
+
+======================================================================
+5. PAST SIMPLE
+======================================================================
+
+CORE MEANING Use the Past Simple for completed events, states, habits,
+and sequences located in a finished past time.
+
+FORM Affirmative: Subject + V2 I worked. She went.
+
+Negative: Subject + did not (didn’t) + V1
+
+Question: Did + subject + V1 …?
+
+BE: I/He/She/It was You/We/They were Negative: was not / were not
+Question: Was/Were + subject …?
+
+MAIN USES 1. Completed past event: I called him yesterday. 2. Sequence
+of completed events: She opened the door, walked inside and sat down. 3.
+Past state: I lived in Madrid when I was a child. 4. Past habit: We
+played outside every evening. 5. Specific finished past time: They moved
+here in 2019.
+
+COMMON TIME EXPRESSIONS yesterday, last night, last week, ago, in 2015,
+when I was young, then.
+
+REGULAR AND IRREGULAR VERBS work -> worked play -> played study ->
+studied go -> went see -> saw write -> wrote take -> took
+
+COMMON MISTAKES Wrong: I didn’t went. Correct: I didn’t go.
+
+Wrong: Did she saw him? Correct: Did she see him?
+
+Wrong: We was tired. Correct: We were tired.
+
+CONTRAST WITH PRESENT PERFECT Past Simple: I lost my keys yesterday. =
+finished time is stated. Present Perfect: I’ve lost my keys. = present
+relevance/result is foregrounded.
+
+======================================================================
+6. PAST CONTINUOUS
+======================================================================
+
+CORE MEANING Use the Past Continuous to view an activity as in progress
+at or around a particular past time. It often provides background to
+another event.
+
+FORM Affirmative: Subject + was/were + V-ing
+
+Negative: Subject + was/were + not + V-ing
+
+Question: Was/Were + subject + V-ing …?
+
+MAIN USES 1. Activity in progress at a specific past time: At eight last
+night, I was studying. 2. Background scene: The sun was shining and
+people were sitting outside. 3. Longer activity interrupted by a shorter
+event: I was sleeping when the phone rang. 4. Two activities progressing
+at the same time: While I was cooking, she was setting the table. 5.
+Temporary situation around a past period: I was staying with friends
+while my apartment was being repaired.
+
+WHEN AND WHILE Common pattern: I was walking home when it started to
+rain. While I was walking home, it started to rain.
+
+Do not turn this into an absolute rule: “when” and “while” do not
+mechanically determine the tense. Meaning and viewpoint matter.
+
+COMMON MISTAKES Wrong: I was study at eight. Correct: I was studying at
+eight.
+
+Wrong: They were played football. Correct: They were playing football.
+
+CONTRAST Past Simple: I cooked dinner. = complete event. Past
+Continuous: I was cooking dinner. = activity viewed in progress.
+
+======================================================================
+7. PAST PERFECT SIMPLE
+======================================================================
+
+CORE MEANING Use the Past Perfect to look back from a point in the past
+to an earlier event or state. It is often described as “the past before
+the past.”
+
+FORM Affirmative: Subject + had + V3
+
+Negative: Subject + had not (hadn’t) + V3
+
+Question: Had + subject + V3 …?
+
+MAIN USES 1. Earlier of two relevant past events: When I arrived, the
+train had left. 2. Cause/background explaining a past result: She was
+tired because she had slept badly. 3. Experience before a past reference
+point: He had never flown before that trip. 4. State continuing up to a
+past point: They had known each other for years before they worked
+together.
+
+ORDER The Past Perfect marks the earlier viewpoint when the sequence
+needs emphasis or clarity. It is not necessary to force Past Perfect
+into every sentence containing two past events.
+
+Compare: After she finished work, she went home. After she had finished
+work, she went home. Both can be natural; the second explicitly looks
+back to the earlier completion.
+
+COMMON MISTAKES Wrong: She had went home. Correct: She had gone home.
+
+Wrong: Did he had finished? Correct: Had he finished?
+
+CONTRAST Past Simple: The train left at six. Past Perfect: By the time
+we reached the station, the train had left.
+
+======================================================================
+8. PAST PERFECT CONTINUOUS
+======================================================================
+
+CORE MEANING Use the Past Perfect Continuous for an activity continuing
+over a period before a past reference point, often emphasizing duration,
+process, or a cause visible in the past.
+
+FORM Affirmative: Subject + had + been + V-ing
+
+Negative: Subject + had not + been + V-ing
+
+Question: Had + subject + been + V-ing …?
+
+MAIN USES 1. Duration before a past point: She had been studying for
+three hours when I called. 2. Activity causing a past result: The road
+was wet because it had been raining. 3. Repeated activity up to a past
+point: He had been visiting the clinic regularly before he moved.
+
+SIMPLE VS CONTINUOUS Past Perfect Simple often emphasizes
+completion/result: She had written the report before the meeting.
+
+Past Perfect Continuous emphasizes activity/duration: She had been
+writing the report for hours before the meeting.
+
+STATIVE VERBS Prefer Past Perfect Simple for stative meanings: They had
+known each other for years. Not normally: They had been knowing each
+other for years.
+
+COMMON MISTAKES Wrong: I had been wait for an hour. Correct: I had been
+waiting for an hour.
+
+Wrong: She had been knew him for years. Correct: She had known him for
+years.
+
+======================================================================
+9. FUTURE SIMPLE — WILL
+======================================================================
+
+CORE MEANING In the traditional 12-form framework, “Future Simple”
+usually means will + base verb. Use it for several kinds of future
+reference, especially decisions made at the moment, predictions,
+promises, offers and willingness.
+
+FORM Affirmative: Subject + will + V1 I’ll call you.
+
+Negative: Subject + will not (won’t) + V1
+
+Question: Will + subject + V1 …?
+
+MAIN USES 1. Decision made at/around the moment of speaking: The phone
+is ringing. I’ll answer it. 2. Prediction/opinion: I think the team will
+win. 3. Promise: I’ll help you tomorrow. 4. Offer: I’ll carry that bag
+for you. 5. Willingness/refusal: I’ll do it. He won’t listen. 6. Future
+fact presented neutrally: She will be thirty next month.
+
+WILL VS GOING TO “Going to” is also a major future construction,
+although it is not one of the traditional 12 headings in this file.
+
+Prior intention/plan: I’m going to start a course next month.
+
+Prediction based on present evidence: Look at those clouds. It’s going
+to rain.
+
+Prediction/opinion: I think it will rain tomorrow.
+
+These categories can overlap in real communication; explain meaning
+rather than forcing a rigid one-word rule.
+
+COMMON MISTAKES Wrong: I will to call you. Correct: I will call you.
+
+Wrong: She will goes. Correct: She will go.
+
+Wrong: Will you going? Correct: Will you go? (Or “Are you going?” if
+asking about an arrangement.)
+
+======================================================================
+10. FUTURE CONTINUOUS
+======================================================================
+
+CORE MEANING Use the Future Continuous to view an activity as in
+progress at a future time or as part of an expected future course of
+events.
+
+FORM Affirmative: Subject + will + be + V-ing
+
+Negative: Subject + will not + be + V-ing
+
+Question: Will + subject + be + V-ing …?
+
+MAIN USES 1. Activity in progress at a future time: At nine tomorrow,
+I’ll be working. 2. Expected activity in the normal course of events:
+We’ll be staying at the hotel for three nights. 3. Temporary future
+situation: She’ll be working from home next week. 4. Polite/neutral
+inquiry about plans in some contexts: Will you be using the car this
+evening?
+
+CONTRAST Future Simple: I’ll call him tonight. = decision/promise/future
+event.
+
+Future Continuous: I’ll be talking to him tonight. = activity expected
+to be happening/as part of plans.
+
+COMMON MISTAKES Wrong: I will be work at ten. Correct: I will be working
+at ten.
+
+Wrong: She will being studying. Correct: She will be studying.
+
+======================================================================
+11. FUTURE PERFECT SIMPLE
+======================================================================
+
+CORE MEANING Use the Future Perfect to look back from a future reference
+point to something expected to be completed by or before that point.
+
+FORM Affirmative: Subject + will + have + V3
+
+Negative: Subject + will not + have + V3
+
+Question: Will + subject + have + V3 …?
+
+MAIN USES 1. Completion before a future deadline/reference point: By
+Friday, I’ll have finished the report. 2. Quantity/achievement
+accumulated by a future point: By the end of the year, she will have
+completed twelve projects. 3. State viewed up to a future point: Next
+month, they will have been married for twenty years.
+
+COMMON EXPRESSIONS by, by then, by tomorrow, by the time, before, by the
+end of.
+
+IMPORTANT “By” normally means no later than the stated point; the action
+may finish earlier.
+
+COMMON MISTAKES Wrong: I will have finish by Friday. Correct: I will
+have finished by Friday.
+
+Wrong: She will has completed it. Correct: She will have completed it.
+
+CONTRAST Future Continuous: At 5 p.m., I’ll be writing the report. = in
+progress then.
+
+Future Perfect: By 5 p.m., I’ll have written the report. = completed by
+then.
+
+======================================================================
+12. FUTURE PERFECT CONTINUOUS
+======================================================================
+
+CORE MEANING Use the Future Perfect Continuous to look back from a
+future point and emphasize how long an activity will have been
+continuing.
+
+FORM Affirmative: Subject + will + have + been + V-ing
+
+Negative: Subject + will not + have + been + V-ing
+
+Question: Will + subject + have + been + V-ing …?
+
+MAIN USES 1. Duration continuing up to a future point: By June, I’ll
+have been working here for five years. 2. Ongoing activity measured from
+a future viewpoint: At noon, she will have been studying for four hours.
+
+COMMON EXPRESSIONS for + duration by + future point by the time + clause
+
+SIMPLE VS CONTINUOUS Future Perfect Simple often emphasizes
+result/amount: By noon, I’ll have written six pages.
+
+Future Perfect Continuous emphasizes duration/activity: By noon, I’ll
+have been writing for four hours.
+
+STATIVE VERBS Prefer a non-continuous form for stative meanings: Next
+year, I will have known her for ten years. Not normally: I will have
+been knowing her for ten years.
+
+COMMON MISTAKES Wrong: I will have been work here for five years.
+Correct: I will have been working here for five years.
+
+Wrong: She will has been studying. Correct: She will have been studying.
+
+======================================================================
+13. MASTER COMPARISON MAP
+======================================================================
+
+PRESENT VIEWPOINT Present Simple: I work here. Meaning:
+fact/routine/state.
+
+Present Continuous: I am working here. Meaning: activity in
+progress/current or temporary situation.
+
+Present Perfect: I have worked here for five years. Meaning: earlier
+start connected to now; simple form can describe an ongoing
+state/situation.
+
+Present Perfect Continuous: I have been working here for five years.
+Meaning: duration/activity from the past to now is emphasized.
+
+PAST VIEWPOINT Past Simple: I worked there. Meaning: completed/finished
+past situation.
+
+Past Continuous: I was working there at 8 p.m. Meaning: activity in
+progress at a past time.
+
+Past Perfect: I had worked there before I moved. Meaning: earlier
+situation viewed from a later past point.
+
+Past Perfect Continuous: I had been working there for five years when I
+moved. Meaning: duration/activity leading up to a past point.
+
+FUTURE VIEWPOINT Future Simple: I will work tomorrow. Meaning: future
+event/prediction/decision depending on context.
+
+Future Continuous: I will be working at 8 p.m. Meaning: activity in
+progress at a future time.
+
+Future Perfect: I will have finished by 8 p.m. Meaning: completion
+before a future point.
+
+Future Perfect Continuous: I will have been working for eight hours by 8
+p.m. Meaning: duration continuing up to a future point.
+
+======================================================================
+14. HIGH-VALUE CONTRASTS THE AI MUST EXPLAIN WELL
+======================================================================
+
+A. PRESENT SIMPLE vs PRESENT CONTINUOUS I live in Barcelona. =
+normal/permanent-ish fact. I’m living in Barcelona for the summer. =
+temporary current situation.
+
+B. PAST SIMPLE vs PRESENT PERFECT I saw that film last night. = finished
+past time. I’ve seen that film. = experience; no finished time stated.
+
+C. PRESENT PERFECT SIMPLE vs PRESENT PERFECT CONTINUOUS I’ve cleaned the
+kitchen. = result/completion. I’ve been cleaning the kitchen. =
+activity/process; perhaps recently stopped or unfinished.
+
+D. PAST SIMPLE vs PAST CONTINUOUS I cooked dinner. = completed event. I
+was cooking dinner when she arrived. = activity in progress when another
+event occurred.
+
+E. PAST SIMPLE vs PAST PERFECT When I arrived, he left. = sequence may
+suggest he left at/after my arrival. When I arrived, he had left. = his
+departure was earlier.
+
+F. PAST PERFECT SIMPLE vs PAST PERFECT CONTINUOUS He had repaired three
+cars before lunch. = number/results. He had been repairing cars all
+morning. = duration/activity.
+
+G. WILL vs GOING TO I’ll answer the door. = immediate decision. I’m
+going to paint the room this weekend. = prior intention. Look at the
+sky. It’s going to rain. = prediction from present evidence. I think
+it’ll rain tomorrow. = prediction/opinion.
+
+H. PRESENT CONTINUOUS vs GOING TO FOR FUTURE I’m meeting the manager at
+10. = arrangement, often involving a fixed time/other people. I’m going
+to talk to the manager. = intention/plan. Overlap is possible.
+
+I. FUTURE CONTINUOUS vs FUTURE PERFECT At 10, I’ll be taking the exam. =
+in progress at 10. By 10, I’ll have taken the exam. = completed by 10.
+
+J. FUTURE PERFECT vs FUTURE PERFECT CONTINUOUS By July, I’ll have
+completed five courses. = result/quantity. By July, I’ll have been
+studying for six months. = duration.
+
+======================================================================
+15. STATIVE VERBS — ESSENTIAL SAFETY RULE
+======================================================================
+
+COMMON STATIVE MEANINGS knowledge/thought: know, understand, believe,
+remember, mean desire/preference: want, need, prefer, like, love, hate
+possession/relationship: own, belong, have (= possess) appearance/senses
+in some meanings: seem, appear, smell, taste, sound
+
+These are normally not used in continuous forms when expressing a state.
+
+State: I think he’s right. = believe Dynamic: I’m thinking about the
+problem. = considering
+
+State: I have a car. = possess Dynamic: I’m having lunch. = eating
+
+State: The soup tastes good. = has a flavour Dynamic: The chef is
+tasting the soup. = actively checking the flavour
+
+The AI must judge the MEANING, not merely ban a verb from every
+continuous construction.
+
+======================================================================
+16. QUESTIONS, NEGATIVES AND AUXILIARIES
+======================================================================
+
+PRESENT SIMPLE Do you work? Does she work? I don’t work. She doesn’t
+work.
+
+PAST SIMPLE Did you work? I didn’t work.
+
+CONTINUOUS Are you working? Were you working? I am not working. They
+weren’t working.
+
+PERFECT Have you worked? Had you worked? I haven’t worked. She hadn’t
+worked.
+
+FUTURE WITH WILL Will you work? Will you be working? Will you have
+finished? Will you have been working? I won’t work. I won’t be working.
+I won’t have finished. I won’t have been working.
+
+RULE After do/does/did/will, use the base form where that auxiliary
+directly governs the main verb construction: Does she work? not “Does
+she works?” Did he go? not “Did he went?” Will they come? not “Will they
+comes?”
+
+======================================================================
+17. IRREGULAR VERBS — CORE SET
+======================================================================
+
+V1 V2 V3 be was/were been become became become begin began begun break
+broke broken bring brought brought buy bought bought come came come do
+did done drink drank drunk drive drove driven eat ate eaten feel felt
+felt find found found get got got/gotten* give gave given go went gone
+have had had know knew known leave left left make made made meet met met
+read read read run ran run say said said see saw seen speak spoke spoken
+take took taken teach taught taught think thought thought write wrote
+written
+
+-   “gotten” is especially common in American English in particular
+    meanings; “got” is widely used as the past participle in British
+    English. Explain dialect/context if relevant.
+
+======================================================================
+18. ERROR-CORRECTION PROTOCOL FOR THE CHATBOT
+======================================================================
+
+When a learner submits a sentence, use this structure:
+
+CORRECTION Learner: I have went to London yesterday. Better: I went to
+London yesterday.
+
+WHY “Yesterday” identifies a finished past time, so Past Simple is the
+normal choice. The Past Simple of “go” is “went”.
+
+MORE EXAMPLES I went there last week. She visited London yesterday.
+
+If the learner instead writes: I have been to London three times.
+
+Do NOT change it merely because it describes the past. This naturally
+expresses life experience up to the present.
+
+If two forms are possible: Explain both meanings.
+
+Example: I’ve lived here for five years. I’ve been living here for five
+years.
+
+Both can be natural. The simple form presents the situation/state as a
+fact extending to the present; the continuous form puts more emphasis on
+the ongoing activity/duration. Do not manufacture a false “one is
+correct, one is wrong” distinction.
+
+======================================================================
+19. PRACTICE-GENERATION RULES
+======================================================================
+
+When asked for examples: - Generate new examples. - Mix subjects: I,
+you, he, she, it, we, they, noun phrases. - Use realistic everyday
+contexts. - Avoid repeating one verb excessively.
+
+When asked for fill-in-the-blanks: - Make the intended tense recoverable
+from context. - Do not rely only on a signal word. - Provide the
+infinitive/base verb in brackets when useful. Example: “By the time the
+guests arrive, we ______ the food. (prepare)” Target: will have
+prepared.
+
+When asked for sentence correction: - Include one meaningful error at a
+time for beginner practice. - At higher difficulty, combine errors only
+when requested. - Never create a sentence that has several defensible
+answers and claim only one is valid.
+
+When asked for MCQs: - Use four plausible options. - Ensure exactly one
+answer is best if it is single-choice. - Explain why the correct answer
+fits the context. - Explain important distractors when useful.
+
+When asked to transform sentences: Possible transformations include:
+affirmative -> negative affirmative -> question present -> past
+viewpoint simple -> continuous viewpoint active tense identification
+error correction
+
+When asked for writing practice: Give a clear situation and a tense
+target. Example: “Write 5 sentences about things you have done this week
+using the Present Perfect.”
+
+======================================================================
+20. TEACHING RESPONSE TEMPLATES
+======================================================================
+
+A. “EXPLAIN THIS TENSE” 1. One-sentence meaning 2. Formula 3. Main uses
+4. 3-5 examples 5. One common mistake 6. Short comparison with the most
+easily confused tense 7. Optional practice question
+
+B. “WHAT IS THE DIFFERENCE?” 1. State the difference in one or two
+lines. 2. Put the forms side by side. 3. Use a matched pair of examples.
+4. Explain the change in meaning. 5. Mention overlap/variation if real
+English allows it.
+
+C. “IS MY SENTENCE CORRECT?” 1. Yes / No / Grammatically possible but
+context-dependent. 2. Corrected or improved version if needed. 3. Brief
+reason. 4. One comparable example.
+
+D. “GIVE ME PRACTICE” 1. Follow the requested tense and difficulty. 2.
+Do not show answers immediately unless asked. 3. Keep questions
+unambiguous. 4. When checking answers, explain mistakes instead of
+giving only a score.
+
+======================================================================
+21. FINAL AI TEACHER QUALITY CHECK
+======================================================================
+
+Before answering, silently check:
+
+[ ] Did I understand the time relationship? [ ] Did I identify whether
+the speaker focuses on fact, progress, result, or duration? [ ] Did I
+check the auxiliary and verb form? [ ] Did I check whether the verb is
+stative or dynamic in this meaning? [ ] Did I avoid treating a signal
+word as an absolute rule? [ ] If two answers are possible, did I explain
+the difference? [ ] Is my example natural English? [ ] Is my explanation
+simpler than the problem? [ ] If I corrected the learner, did I explain
+why? [ ] Did I stay within English-learning scope?
+
+END OF KNOWLEDGE BASE
