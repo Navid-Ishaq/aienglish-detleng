@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="DeTLeng AI English combines structured English tense lessons with a context-aware AI Teacher.">
+  <meta name="theme-color" content="#10233f">
+  <title>DeTLeng AI English · Structured lessons with AI help</title>
+  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="assets/css/styles.css">
+  <script src="assets/js/lesson-data.js" defer></script>
+  <script src="assets/js/lessons.js" defer></script>
+  <script src="assets/js/components.js" defer></script>
+  <script src="assets/js/app.js" defer></script>
+</head>
+<body data-base="">
+  <div data-site-header></div>
+  <main id="main-content">
+    <section class="hero">
+      <div class="container hero-grid">
+        <div>
+          <p class="eyebrow">Structured English learning + context-aware AI</p>
+          <h1>Learn the rule. See it clearly. <span>Make it yours.</span></h1>
+          <p class="hero-copy">A focused path through the 12 English tenses, with practical examples, clear practice and an AI Teacher that understands exactly where you are in the lesson.</p>
+          <div class="button-row">
+            <a class="button button-primary" href="lessons/present-simple/">Start Present Simple</a>
+            <a class="button button-secondary" href="#lessons">Explore all 12 tenses</a>
+          </div>
+        </div>
+        <div class="hero-card" aria-label="Lesson and AI Teacher preview">
+          <span class="pill">Lesson 01 · Present Simple</span>
+          <div class="mini-lesson">
+            <p>Everyday routine</p><strong>She starts work at nine.</strong><p>he / she / it + base verb + s</p>
+          </div>
+          <div class="ai-preview">
+            <div class="bubble user">Why do we say “starts” here?</div>
+            <div class="bubble">Because “she” is third-person singular. In positive Present Simple sentences, the verb usually takes <strong>-s</strong>.</div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section section-alt" aria-labelledby="learning-flow">
+      <div class="container">
+        <div class="section-head"><p class="eyebrow">A calmer way to learn</p><h2 id="learning-flow">One guided journey from explanation to confidence</h2><p>The lesson stays useful on its own. The AI Teacher adds help only when you want it.</p></div>
+        <div class="feature-grid">
+          <article class="feature-card"><div class="feature-icon">01</div><h3>Understand the idea</h3><p>Begin with plain English, practical uses and a visual sense of time before grammar formulas.</p></article>
+          <article class="feature-card"><div class="feature-icon">02</div><h3>See and practise</h3><p>Study natural examples, compare meanings, spot real mistakes and reveal answers at your pace.</p></article>
+          <article class="feature-card"><div class="feature-icon">AI</div><h3>Ask in context</h3><p>The AI Teacher receives the lesson, section and requested action automatically—no repeated explaining.</p></article>
+        </div>
+      </div>
+    </section>
+
+    <section class="section" id="lessons" aria-labelledby="lessons-title">
+      <div class="container">
+        <div class="section-head"><p class="eyebrow">12 tense lessons</p><h2 id="lessons-title">A reusable learning system, built one lesson at a time</h2><p>Present Simple is the reference lesson. The remaining lessons are visible for orientation and will be added only after approval.</p></div>
+        <div class="tense-grid" data-tense-grid></div>
+      </div>
+    </section>
+
+    <section class="section section-alt" aria-labelledby="ai-title">
+      <div class="container hero-grid">
+        <div><p class="eyebrow">Help exactly where it matters</p><h2 id="ai-title" style="font-size:clamp(2rem,4vw,3.2rem);line-height:1.12;letter-spacing:-.04em;margin:0 0 16px;color:var(--navy)">An AI Teacher that knows the lesson context</h2><p class="hero-copy">Ask why a sentence is wrong, request more examples or turn the current section into a short test. The interface is ready; secure server-side OpenAI integration comes in the dedicated backend milestone.</p><button class="button button-primary" data-open-ai data-lesson="General English" data-section="Home">Preview AI Teacher</button></div>
+        <div class="hero-card"><p class="eyebrow">Context contract</p><div class="formula"><span class="accent">Lesson</span>: Present Simple<br><span class="accent">Section</span>: Common Mistakes<br><span class="accent">Action</span>: Explain simply</div><p class="muted">The learner does not need to retype this context. It travels with the request.</p></div>
+      </div>
+    </section>
+  </main>
+  <div data-site-footer></div>
+  <div data-ai-shell></div>
+</body>
+</html>
