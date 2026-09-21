@@ -1,6 +1,6 @@
 window.DETLENG_LESSONS = [
   { slug: 'present-simple', title: 'Present Simple', family: 'Present', status: 'available', summary: 'Habits, facts, states and repeated events.' },
-  { slug: 'present-continuous', title: 'Present Continuous', family: 'Present', status: 'soon' },
+  { slug: 'present-continuous', title: 'Present Continuous', family: 'Present', status: 'available', summary: 'Actions in progress, temporary situations, changes and arrangements.' },
   { slug: 'present-perfect', title: 'Present Perfect', family: 'Present', status: 'soon' },
   { slug: 'present-perfect-continuous', title: 'Present Perfect Continuous', family: 'Present', status: 'soon' },
   { slug: 'past-simple', title: 'Past Simple', family: 'Past', status: 'soon' },
@@ -12,4 +12,3 @@ window.DETLENG_LESSONS = [
   { slug: 'future-perfect', title: 'Future Perfect', family: 'Future', status: 'soon' },
   { slug: 'future-perfect-continuous', title: 'Future Perfect Continuous', family: 'Future', status: 'soon' }
 ];
-

@@ -1,6 +1,7 @@
 (() => {
   const base = document.body.dataset.base || '';
   const lesson = document.body.dataset.lesson || 'General English';
+  const currentLesson = document.body.dataset.currentLesson || 'lessons/present-simple/';
   const header = document.querySelector('[data-site-header]');
   const footer = document.querySelector('[data-site-footer]');
   const ai = document.querySelector('[data-ai-shell]');
@@ -15,7 +16,7 @@
       <nav class="nav-links" aria-label="Main navigation">
         <a href="${base}index.html">Home</a>
         <a href="${base}index.html#lessons">12 Tenses</a>
-        <a href="${base}lessons/present-simple/">Current Lesson</a>
+        <a href="${base}${currentLesson}">Current Lesson</a>
         <a href="#ai-teacher" data-open-ai data-lesson="${lesson}" data-section="General help">AI Teacher</a>
         <a href="https://network.detleng.com" target="_blank" rel="noopener noreferrer">DeTLeng Network</a>
       </nav>
