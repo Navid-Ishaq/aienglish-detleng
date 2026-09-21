@@ -17,6 +17,7 @@
         <a href="${base}index.html">Home</a>
         <a href="${base}index.html#lessons">12 Tenses</a>
         <a href="${base}${currentLesson}">Current Lesson</a>
+        <a href="https://github.com/Navid-Ishaq/aienglish-detleng/tree/main/docs/lessons" target="_blank" rel="noopener noreferrer">Study Guides</a>
         <a href="#ai-teacher" data-open-ai data-lesson="${lesson}" data-section="General help">AI Teacher</a>
         <a href="https://network.detleng.com" target="_blank" rel="noopener noreferrer">DeTLeng Network</a>
       </nav>
