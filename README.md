@@ -8,14 +8,14 @@ Live domain: [aienglish.detleng.com](https://aienglish.detleng.com)
 
 - Modern responsive site shell and navigation
 - Reusable data-driven 12-tense lesson directory
-- Complete Present Simple, Present Continuous and Present Perfect lessons using the locked learning sequence
+- Complete Present Simple, Present Continuous, Present Perfect and Present Perfect Continuous lessons using the locked learning sequence
 - Accessible answer-reveal interactions for five practice types
 - Context-aware AI Teacher drawer connected through a configurable backend URL
 - Secure Express backend for the OpenAI Responses API
 - Email, WhatsApp and DeTLeng Network footer actions
 - Existing `CNAME` preserved
 
-The remaining 9 lessons are intentionally marked **Coming Soon**. They will be added one by one.
+The remaining 8 lessons are intentionally marked **Coming Soon**. They will be added one by one.
 
 ## Architecture
 
@@ -31,6 +31,7 @@ lessons/
   present-simple/         Reference lesson route
   present-continuous/     Lesson 02 route
   present-perfect/        Lesson 03 route
+  present-perfect-continuous/  Lesson 04 route
 server/
   knowledge/              Server-only AI Teacher tense reference
   src/                    Express API, validation and OpenAI integration
